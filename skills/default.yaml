@@ -1,0 +1,4 @@
+name: dev_basics
+version: "0.1"
+tools: ["run_shell", "file_op", "web_req"]
+prompt: "You are a terminal AI agent. Use tools to read/write files, run commands, and fetch web data."
