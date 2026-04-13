@@ -1,0 +1,7 @@
+ai_preference: "auto"  # local, online, auto
+local_model: "qwen2.5:1.5b"
+online_model: "anthropic/claude-3-haiku"
+openrouter_api_key: "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"
+max_context_tokens: 4096
+max_tool_calls: 5
+safe_mode: true
